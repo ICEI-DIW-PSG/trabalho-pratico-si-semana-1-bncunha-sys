@@ -4,15 +4,15 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Bruno Nascimento Cunha 
+Matricula: 1633204
 
 ## Tela de inspeção com navegador
-
+![imagen inspeção](images/imagem1.jpg)
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
 ## Tela de projeto no Replit
-
+![imagen Repli](images/imagem2.jpg)
 `<Coloque aqui o print da tela do projeto no Replit>`
 
 
