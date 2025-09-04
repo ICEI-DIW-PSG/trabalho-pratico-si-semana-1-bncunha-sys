@@ -8,11 +8,11 @@ Nome: Bruno Nascimento Cunha
 Matricula: 905809
 
 ## Tela de inspeção com navegador
-![imagen inspeção](images/imagem1.jpg)
+![imagen inspeção](images/imag.jpg)
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
 ## Tela de projeto no Replit
-![imagen Repli](images/imagem2.jpg)
+![imagen Repli](images/imagen%20print.png)
 `<Coloque aqui o print da tela do projeto no Replit>`
 
 
